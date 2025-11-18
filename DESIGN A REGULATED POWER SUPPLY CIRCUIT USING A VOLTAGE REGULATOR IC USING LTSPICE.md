@@ -8,7 +8,11 @@
 
 ## Tabulations
 
+<img width="1280" height="576" alt="515243278-911611b7-5acd-4616-bd87-96d4b2081078" src="https://github.com/user-attachments/assets/ad1cc666-9213-4499-b8ce-b9d6ed4b2398" />
+
 ## Graph
+
+<img width="1280" height="576" alt="515243279-c3d314db-af6d-42f7-a2c3-9fe1dac01b41" src="https://github.com/user-attachments/assets/dfb59578-2106-47f8-9742-680d0fbd8aff" />
 
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
