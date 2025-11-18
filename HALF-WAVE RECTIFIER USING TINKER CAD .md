@@ -6,7 +6,11 @@
 
 
 ## TINKER CAD OUTPUT CIRCUIT
+BEFORE:
+
 ![WhatsApp Image 2025-11-10 at 15 47 26_8dcdd83a](https://github.com/user-attachments/assets/9e31c749-0292-43b8-8497-3da7e53d0a83)
+
+AFTER:
 
 <img width="1918" height="1103" alt="Screenshot 2025-11-10 154613" src="https://github.com/user-attachments/assets/878bc33b-adf9-4040-91bc-ceaff1391afe" />
 
